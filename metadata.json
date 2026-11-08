@@ -1,0 +1,6 @@
+{
+  "name": "Elektrosztatikus Tér 3D Szimulátor",
+  "description": "Interaktív 3D elektrosztatikus tér vizualizáció átlátszó gömbbel, Coulomb-erővonalakkal, ekvipotenciális héjakkal és vektormezővel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
